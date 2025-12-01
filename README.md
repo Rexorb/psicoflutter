@@ -59,7 +59,7 @@ O aplicativo define dois modelos de dados principais, registrados como objetos H
 
 1.  **Clonar o Repositório:**
     ```bash
-    git clone [https://github.com/Rexorb/psicoflutter.git](https://github.com/Rexorb/psicoflutter.git)
+    git clone https://github.com/Rexorb/psicoflutter.git
     cd psicoflutter
     ```
 
@@ -85,5 +85,6 @@ O aplicativo define dois modelos de dados principais, registrados como objetos H
     ```
 
 ## 🎨 Paleta de Cores Personalizada
+
 
 O projeto utiliza uma paleta customizada (classe `AppColors`) centrada na cor **Lápis-Lazúli** (`#26619C`) para criar uma identidade visual profissional e coesa.
