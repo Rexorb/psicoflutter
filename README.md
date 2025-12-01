@@ -59,7 +59,7 @@ O aplicativo define dois modelos de dados principais, registrados como objetos H
 
 1.  **Clonar o Repositório:**
     ```bash
-    git clone [https://docs.github.com/pt/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github](https://docs.github.com/pt/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
+    git clone [https://github.com/Rexorb/psicoflutter.git](https://github.com/Rexorb/psicoflutter.git)
     cd psicoflutter
     ```
 
